@@ -1,4 +1,4 @@
-package com.me.git.first;
+package com.me.chapman.james.git.first;
 
 public class GitTest {
 	public static void main(String[] args) {
